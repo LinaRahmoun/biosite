@@ -18,7 +18,7 @@ git clone https://github.com/LinaRahmoun/biosite.git
         <h2>Contributors</h2>
         <ul>
             <li>Instructor: Joseph Issa</li>
-            <li>Your Name: Lina_Rahmoun</li>
+            <li>Name: Lina_Rahmoun</li>
         </ul>
     </main>
     
